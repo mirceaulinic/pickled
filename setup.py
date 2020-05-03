@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
-The setup script for ISalt
+The setup script for Pickled
 '''
 import codecs
 from setuptools import setup, find_packages
